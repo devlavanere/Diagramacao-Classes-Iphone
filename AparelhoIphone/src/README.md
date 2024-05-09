@@ -4,4 +4,4 @@ Esse projeto visa colocar em prática conceitos de Programação Orientada a Obj
 
 ## Diagrama de Classes UML do Projeto:
 
-![Imagem Diagrama](file:///C:/dev/IDE/eclipse-java/eclipse-workspace-java/AparelhoIphone/src/img/UML_Iphone.png)
+![](https://github.com/devlavanere/Diagramacao-Classes-Iphone/assets/125924854/daf2374b-9a66-4bd5-a6a6-8a836efb57ce)
